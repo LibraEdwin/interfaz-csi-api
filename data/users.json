@@ -1,0 +1,23 @@
+[
+  {
+    "email": "admin@circolo.pe",
+    "password": "P@55word",
+    "name": "Admin",
+    "lastName": "Circolo",
+    "profile": 1
+  },
+  {
+    "email": "andres@circolo.pe",
+    "password": "P@55word11",
+    "name": "Andres",
+    "lastName": "Talavera",
+    "profile": 2
+  },
+  {
+    "email": "diego@circolo.pe",
+    "password": "P@55word22",
+    "name": "Diego",
+    "lastName": "Parodi",
+    "profile": 2
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "mobile",
+    "dimensions": "240x240"
+  },
+  {
+    "name": "lateral",
+    "dimensions": "400x400"
+  },
+  {
+    "name": "paragraph",
+    "dimensions": "982x248"
+  }
+]
